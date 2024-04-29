@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xudong1224.github.io/sitemap.xml
