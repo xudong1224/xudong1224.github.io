@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🧱建站 on xd.he&#39;s WareHouse</title>
+    <link>https://xudong1224.github.io/posts/blog/</link>
+    <description>Recent content in 🧱建站 on xd.he&#39;s WareHouse</description>
+    <generator>Hugo -- 0.120.3</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xudong1224.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Github Pages 网站搭建</title>
+      <link>https://xudong1224.github.io/posts/blog/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://xudong1224.github.io/posts/blog/%E5%8D%9A%E5%AE%A2/</guid>
+      <description>基于 Hugo 搭建并部署在 Github Pages</description>
+    </item>
+  </channel>
+</rss>
